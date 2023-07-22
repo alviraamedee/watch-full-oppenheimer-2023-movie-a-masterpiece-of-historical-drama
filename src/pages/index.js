@@ -37,7 +37,6 @@ const samplePageLinks = [
   {
     text: "Oppenheimer 2023",
     url: "https://aius.site/movie/872585/oppenheimer.html",
-    badge: false,
     description:
       "Watch Full Movie Oppenheimer 2023, a cinematic masterpiece that brings to life the remarkable journey of J. Robert Oppenheimer, the renowned physicist and key figure in the development of the atomic bomb during World War II. In this SEO-optimized article, we delve deep into the heart of this captivating film, exploring its visionary direction, stellar cast, and the profound impact it has left on both the film industry and popular culture.",
   },
