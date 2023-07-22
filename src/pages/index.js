@@ -8,16 +8,16 @@ import * as styles from "../components/index.module.css"
 
 const links = [
   {
-    text: "Tutorial",
-    url: "https://www.gatsbyjs.com/docs/tutorial",
+    text: "Introduction",
+    url: "https://watchfulloppenheimer2023moviea.gatsbyjs.io",
     description:
-      "A great place to get started if you're new to web development. Designed to guide you through setting up your first Gatsby site.",
+      "Watch Full Movie Oppenheimer 2023: Step into the world of brilliance and intrigue as we delve into the mesmerizing journey of J. Robert Oppenheimer, the father of the atomic bomb. In this SEO-optimized article, we explore the cinematic masterpiece that captivated audiences worldwide and left an indelible mark on the film industry. From the visionary direction to the stellar performances, and from historical accuracy to artistic brilliance, Oppenheimer 2023 stands tall as a testament to the power of storytelling. So, let's take a deep dive into the heart of this compelling movie.",
   },
   {
-    text: "Examples",
-    url: "https://github.com/gatsbyjs/gatsby/tree/master/examples",
+    text: "Oppenheimer 2023: A Cinematic Marvel",
+    url: "https://watchfulloppenheimer2023moviea.gatsbyjs.io",
     description:
-      "A collection of websites ranging from very basic to complex/complete that illustrate how to accomplish specific tasks within your Gatsby sites.",
+      "The Vision of the Director: Oppenheimer 2023 was brought to life by the creative genius of acclaimed director Christopher Nolan. Known for his thought-provoking narratives and mind-bending concepts, Nolan's take on J. Robert Oppenheimer's life was both enlightening and gripping. The director's commitment to historical authenticity and attention to detail set the stage for a truly immersive cinematic experience. Star-Studded Cast: The film's cast reads like a who's who of Hollywood's finest. Christian Bale's portrayal of J. Robert Oppenheimer was nothing short of transformative, earning him praise from critics and audiences alike. Alongside him, Cate Blanchett, as the enigmatic physicist Lisa Meitner, delivered a captivating performance that added depth to the narrative. The chemistry among the ensemble cast elevated the movie to new heights. Filming Locations and Cinematography: Oppenheimer 2023 took viewers on a visual odyssey, thanks to the breathtaking cinematography by Hoyte Van Hoytema. The movie was shot in a variety of locations, from historical laboratories to picturesque landscapes, each adding layers of authenticity to the narrative. The result was a visually stunning journey that held audiences spellbound.",
   },
   {
     text: "Plugin Library",
