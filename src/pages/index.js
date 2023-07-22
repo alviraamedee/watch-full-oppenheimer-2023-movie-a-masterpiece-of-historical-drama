@@ -71,9 +71,9 @@ const IndexPage = () => (
   <Layout>
     <div className={styles.textCenter}>
       <StaticImage
-        src="../images/example.png"
+        src="../images/oppenheimer2023.jpg"
         loading="eager"
-        width={64}
+        width={720}
         quality={95}
         formats={["auto", "webp", "avif"]}
         alt=""
@@ -83,7 +83,7 @@ const IndexPage = () => (
         Watch Full <b>Oppenheimer 2023 Movie</b> - A Masterpiece of Historical Drama
       </h1>
       <p className={styles.intro}>
-        <b>Visit Link To Watch Full Movie: {" "}</b>
+        <b>Visit Link To Watch Full Movie:</b> {" "}
        {samplePageLinks.map((link, i) => (
           <React.Fragment key={link.url}>
             <Link to={link.url}>{link.text}</Link>
