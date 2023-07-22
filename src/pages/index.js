@@ -82,10 +82,10 @@ const IndexPage = () => (
         style={{ marginBottom: `var(--space-3)` }}
       />
       <h1>
-        Welcome to <b>Gatsby!</b>
+        Watch Full <b>Oppenheimer 2023 Movie</b> - A Masterpiece of Historical Drama
       </h1>
       <p className={styles.intro}>
-        <b>Example pages:</b>{" "}
+        <b>Visit Link To Watch Full Movie:</b>{" "}
         {samplePageLinks.map((link, i) => (
           <React.Fragment key={link.url}>
             <Link to={link.url}>{link.text}</Link>
