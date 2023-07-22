@@ -9,8 +9,8 @@
  */
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Default Starter`,
-    description: `Kick off your next, great Gatsby project with this default starter. This barebones starter ships with the main Gatsby configuration files you might need.`,
+    title: `Watch Full Oppenheimer 2023 Movie - A Masterpiece of Historical Drama`,
+    description: `Oppenheimer 2023 was brought to life by the creative genius of acclaimed director Christopher Nolan. Known for his thought-provoking narratives and mind-bending concepts, Nolan's take on J. Robert Oppenheimer's life was both enlightening and gripping. .`,
     author: `@gatsbyjs`,
     siteUrl: `https://gatsbystarterdefaultsource.gatsbyjs.io/`,
   },
