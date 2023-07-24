@@ -81,7 +81,7 @@ const IndexPage = () => (
       <h1>
         Watch Full <b>Oppenheimer 2023 Movie</b> - A Masterpiece of Historical Drama
       </h1>
-      <ul className={styles.intro}>
+       <p className={styles.intro}>
         <b>Visit Link To Watch Full Movie: 👉</b> {" "}
        {samplePageLinks.map((link, i) => (
           <React.Fragment key={link.url}>
@@ -90,9 +90,9 @@ const IndexPage = () => (
           </React.Fragment>
         ))}
         
-      </ul>
+      </p>
     </div>
-    <p className={styles.list}>
+    <ul className={styles.list}>
       {links.map(link => (
         <li key={link.url} className={styles.listItem}>
           <a
@@ -104,7 +104,7 @@ const IndexPage = () => (
           <p className={styles.listItemDescription}>{link.description}</p>
         </li>
       ))}
-    <p/>
+    </ul>
     {moreLinks.map((link, i) => (
       <React.Fragment key={link.url}>
         <a href={`${link.url}${utmParameters}`}>{link.text}</a>
